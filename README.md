@@ -2,7 +2,7 @@
 
 This is a proof of concept for a smart contract that can verify a number of interactions prior to a data exchange between individuals (data holders) and companies (data requesters).
 
-# Initial Setup
+## Initial Setup
 
 There is a number of dependencies that you will need to install on your computer in order to run the smart contract tests.
 
@@ -23,7 +23,7 @@ in order to run smart contract tests. You can install ganache with the following
 and Truffle with
 `$ npm install -g truffle`
 
-# Privasee Smart Contract
+## Deployed Contract Address
 
 The current address to which the different contracts are deployed can be found in the root directory at *constants.js*
 
