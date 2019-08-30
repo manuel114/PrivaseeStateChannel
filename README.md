@@ -4,8 +4,7 @@ This is a proof of concept for a smart contract that can verify a number of inte
 
 # Initial Setup
 
-There is a number of dependencies that you will need to install on your computer in order to run the
-front-end and test the smart contract.
+There is a number of dependencies that you will need to install on your computer in order to run the smart contract tests.
 
 First of all, you will need to make sure to have Node >= 6 and npm >= 5.2 on your machine.
 You can download the latest version of node from https://nodejs.org/en/download/ and if you need
@@ -23,6 +22,10 @@ in order to run smart contract tests. You can install ganache with the following
 `$ npm install -g ganache-cli`
 and Truffle with
 `$ npm install -g truffle`
+
+# Privasee Smart Contract
+
+The current address to which the different contracts are deployed can be found in the root directory at *constants.js*
 
 ## Testing Smart Contract
 
